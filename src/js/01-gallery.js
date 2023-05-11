@@ -6,7 +6,8 @@ import { galleryItems } from './gallery-items';
 // Change code below this line
 
 console.log(galleryItems);
-console.log(simpleLightbox);
+//console.log(simpleLightbox);
+
 
 const galleryList = document.querySelector('.gallery');
 
